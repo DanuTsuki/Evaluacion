@@ -3,7 +3,7 @@
 }
 
 .fondo{
-    background-image: linear-gradient(rgba(200, 60, 50, 0.5), rgba(20, 80, 50, 0.8)), url("/img/background.png");
+    background-image: linear-gradient(rgba(200, 60, 50, 0.5), rgba(20, 80, 50, 0.8)), url("img/background.png");
     background-color: #212121; 
     height: 650px;
     width: 100%;
